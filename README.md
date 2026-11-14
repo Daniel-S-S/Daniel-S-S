@@ -1,6 +1,6 @@
 # Hi, I'm J. Daniel 👋
 
-🎓 Software Development Student · 🛠️ DevOps & Support Engineering · 📊 Analytics
+🎓 Software Development Engineering · 🛠️ DevOps · 📊 Analytics - 💻 Customer Support Engineering
 
 Systems Support & DevOps Engineer who combines **automation and analytics** to keep
 enterprise cloud and on-prem systems reliable. I analyze logs, metrics, and incident
