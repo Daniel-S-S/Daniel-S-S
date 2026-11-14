@@ -1,4 +1,4 @@
-# Hi, I'm [J. Daniel] 👋
+# Hi, I'm J. Daniel 👋
 
 🎓 Software Development Engineering  · 🛠️ DevOps & Analytics 
 
