@@ -18,4 +18,4 @@ code level.
 
 ## 📫 Let's Connect
 
-[www.linkedin.com/in/j-daniel-solano-s-59239126b] · [danielsolsz03@outlook.com]
+**LinkedIn:** www.linkedin.com/in/j-daniel-solano-s-59239126b · **Email:** danielsolsz03@outlook.com
