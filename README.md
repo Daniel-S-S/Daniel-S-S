@@ -1,11 +1,12 @@
-# Hi, I'm [Name] 👋
+# Hi, I'm [J. Daniel] 👋
 
-🎓 Software Development Engineering  · 🛠️ DevOps & Systems Support
+🎓 Software Development Engineering  · 🛠️ DevOps & Analytics 
 
-Systems Support & DevOps Engineer focused on **automation, reliability, and incident
-response** across enterprise cloud and on-prem environments. I turn repetitive support
-work into scripts, pipelines, and runbooks, so issues get resolved faster and don't
-come back. I troubleshoot critical systems end to end, from logs and monitoring to
-root cause analysis, and I communicate clearly with both engineers and non-technical
-stakeholders. I'm also studying software development, which lets me fix problems
-at the code level instead of only working around them.
+Systems Support & DevOps Engineer who combines **automation and analytics** to keep
+enterprise cloud and on-prem systems reliable. I analyze logs, metrics, and incident
+trends to find root causes, then turn the fixes into scripts, pipelines, and runbooks
+so the same issue doesn't return. I work comfortably with engineers and non-technical
+stakeholders alike, and my software development studies let me fix problems at the
+code level.
+
+- **Analytics & Reporting:** [SQL / Python (pandas)] for incident trends, SLA tracking, and operational dashboards
