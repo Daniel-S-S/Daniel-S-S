@@ -9,4 +9,5 @@ so the same issue doesn't return. I work comfortably with engineers and non-tech
 stakeholders alike, and my software development studies let me fix problems at the
 code level.
 
-- **Analytics & Reporting:** [SQL / Python (pandas)] for incident trends, SLA tracking, and operational dashboards
+- **Analytics & Reporting:** [Postgres SQL / Python (pandas)] for incident trends, SLA tracking, and operational dashboards
+- **Cloud Computing:** [Azure/AWS]
